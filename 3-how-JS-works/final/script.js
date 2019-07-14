@@ -29,8 +29,6 @@ foo();
 console.log(age);
 */
 
-
-
 /////////////////////////////////////
 // Lecture: Scoping
 
@@ -70,8 +68,6 @@ function third() {
     console.log(a+d);
 }
 */
-
-
 
 /////////////////////////////////////
 // Lecture: The this keyword
